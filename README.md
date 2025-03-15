@@ -6,9 +6,12 @@
 **Ubuntu Manager** is a **Python-based** GUI application built using the **Flet framework**. It provides an interactive and user-friendly interface for managing users and groups on Ubuntu-based systems.
 
 ## ⚡ Features
-- 📜 **List users** with home directories.
-- ➕ **Add and remove users** with a simple UI.
-- 🏷️ **Manage user groups** (add, list, delete groups, and assign users to groups).
+- 🌐 **Network management** using `nmcli`.
+- 📡 **Display network interfaces** using `ifconfig`.
+- 💾 **Monitor disk usage**.
+- 👥 **View logged-in users** with `who`.
+- 🔍 **Check current user** with `whoami`.
+- 🕒 **Display system date and time**.
 - 🔒 **Secure user management** with sudo privileges.
 - 🖥️ **Modern GUI** built with **Flet**.
 
