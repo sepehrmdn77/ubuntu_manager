@@ -13,7 +13,7 @@
 - 🖥️ **Modern GUI** built with **Flet**.
 
 ## 📸 Screenshot
-<video controls src="../app_test.mp4" title="Title"></video>
+![screenshot](app_screen.png)
 ## 🚀 Installation
 Clone this repository and navigate to the project directory:
 

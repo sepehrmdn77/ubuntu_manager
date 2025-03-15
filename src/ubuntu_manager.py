@@ -13,7 +13,7 @@ orange = '#FB773C'
 def main(page: Page):
     page.horizontal_alignment="center"
     # page.vertical_alignment='center'
-    page.title="Linux sys admin"
+    page.title="Ubuntu manager"
     page.bgcolor = blue1
     page.window.height=900
     page.window.width=600
